@@ -24,12 +24,13 @@ $('#clickButton').on("click",function(){
     });
 })
 
-
+// =====================================================================
+// Make adjustments on my Firebase CONSOLE for better connection 
 // {
 //     "rules": {
 //       ".read": true,
 //       ".write": true
 //     }
 //   }
-
 // Be certain to secure database again before going into production.
+// =======================================================================
