@@ -23,3 +23,13 @@ $('#clickButton').on("click",function(){
         clicks:count
     });
 })
+
+
+// {
+//     "rules": {
+//       ".read": true,
+//       ".write": true
+//     }
+//   }
+
+// Be certain to secure database again before going into production.
